@@ -78,13 +78,13 @@ export default function Home() {
           transition={{ delay: 0.6 }}
         >
           <a
-            href="#projects"
+            href="/projects"
             className="px-8 py-3 bg-gradient-to-r from-blue-600 to-purple-600 text-white rounded-full hover:from-blue-700 hover:to-purple-700 transition-all transform hover:scale-105 shadow-lg shadow-blue-500/30 font-medium"
           >
             View Projects
           </a>
           <a
-            href="/resume.pdf"
+            href="/Amitabh_Mourya_Resume.pdf"
             download
             className="px-8 py-3 border-2 border-blue-500 text-blue-600 rounded-full hover:bg-blue-600 hover:text-white transition-all transform hover:scale-105 font-medium"
           >
